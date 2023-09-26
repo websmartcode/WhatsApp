@@ -1,0 +1,9 @@
+{
+    "env" : {
+        "MYSQL_PASSWORD" : "Sousmart@747791",
+        "MYSEQL_USER" : "newsmart",
+        "MYSQL_DATABASE"  : "dbintegrare",
+        "MYSQL_HOST"  : "191.252.101.114",
+        "MYSQL_PORT"  : 3306
+    }
+}
